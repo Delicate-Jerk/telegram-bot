@@ -9,3 +9,5 @@ myenv/
 
 stage-backend-5irechain.pem
 BetaBackend5irechain.pem
+
+.env
