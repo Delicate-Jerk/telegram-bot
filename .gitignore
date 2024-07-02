@@ -1,0 +1,11 @@
+**/\.*/
+# Except .github
+!.github/
+
+# Misc
+**/.DS_Store
+**/__pycache__
+myenv/
+
+stage-backend-5irechain.pem
+BetaBackend5irechain.pem
